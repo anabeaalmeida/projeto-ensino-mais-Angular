@@ -1,1 +1,32 @@
-/* You can add global styles to this file, and also import other style files */
+.novo-curso{
+    color: blue;
+    border: 1px solid black;
+}
+
+h1{
+    color:red;
+}
+
+#descricao{
+    color: grey;
+}
+
+h3{
+    
+    border: 1px solid;
+    color: honeydew;
+}
+
+#texto{
+    text-decoration-line: underline;
+}
+
+@media (max-width: 1000px) {
+   
+}
+
+body{
+    background-color: beige;
+
+    
+}

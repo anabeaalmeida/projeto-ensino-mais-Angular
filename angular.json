@@ -25,6 +25,7 @@
             ],
             "styles": [
               "src/styles.css"
+              
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projeto-universidade-ensino-mais"
+    }
+  },
+  "defaultProject": "projeto-universidade-ensino-mais",
+  "cli": {
+    "analytics": "639021cc-0cac-445d-a908-d22bea8ee320"
+  }
 }
